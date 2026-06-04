@@ -8,10 +8,12 @@
 
 | Nama | Peran |
 |------|-------|
-| [Nama 1] | Project Manager & Data Analyst |
-| [Nama 2] | Backend Developer |
-| [Nama 3] | Frontend & UI/UX Designer |
-| [Nama 4] | Data Engineer |
+| Ridho Firdaus | Project Manager & Data Science |
+| Hafid Dwi Januar | Data Science |
+| Grace Anastasia Simanungkalit | AI Engineer |
+| Yobby Novialdi | AI Engineer |
+| Muhammad Daffa | Fullstack Engineer |
+| Awalin Nisa'UI Mufidah | Fullstack Engineer |
 
 ---
 
@@ -19,9 +21,12 @@
 
 | Repository | Deskripsi |
 |------------|------------|
-| [Catatanku-App](link) | Aplikasi utama Catatanku |
-| [Catatanku-Data](link) | Data gathering & wrangling |
-| [Catatanku-API](link) | Backend API services |
+| [Data Science]Pengeluaran (https://github.com/Capstone-Catatanku/Data-Science.git) | Data Pengeluaran |
+| [Data Science]Tabungan (https://github.com/Capstone-Catatanku/Data-Science-Tabungan.git) | Data Tabungan |
+| [Data Science]Streamlit (https://github.com/Capstone-Catatanku/Streamlit-DS.git) | Streamlit |
+| [AI Engineer]Model (https://github.com/Capstone-Catatanku/ai-model.git) | Model AI |
+| [AI Engineer]Fast API (https://github.com/Capstone-Catatanku/catatanku-fastapi.git) | Fast API |
+| [Fullstack Engineer]Web App (https://github.com/Capstone-Catatanku/catatanku-app.git) | Web App |
 
 ---
 
