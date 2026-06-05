@@ -64,5 +64,6 @@
 | Laporan Teknis (https://drive.google.com/file/d/1VnePd5dlUXD865H7xTdwwXcPEsU1ikP_/view?usp=drive_link)  | Dokumen Laporan Teknis Data Science |
 | Model Ai (https://drive.google.com/file/d/1JQQ08x2UQO5bABtb8DIFjrgzV6hEXYhc/view?usp=drive_link) | Model AI |
 | Slide Presentasi (https://canva.link/yq1nzbopvhrimxt) | Slide Presentasi Projek |
+| Manual Book (https://drive.google.com/file/d/1OuLGpUhzD5bNHCBWUxb-h1stWdwL-yuK/view?usp=drive_link) | Panduan Penggunaan CatatanKu |
 
 
