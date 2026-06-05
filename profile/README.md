@@ -49,6 +49,24 @@
 
 ---
 
+# 🚀 Hasil Aplikasi
+
+- [CatatanKu](https://catatanku-app-three.vercel.app)
+- [Streamlit](https://catatanku.streamlit.app/)
+- [FastAPI](https://yobby15-catatanku-fastapi.hf.space/)
+
+
+## Lain - Lain
+| Nama | Deskripsi |
+|------------|------------|
+| Project Plan (https://drive.google.com/file/d/10voXvgORT3a7GTn3fwoWkSs-WAzDJnd_/view?usp=drive_link) | Dokumen Project Plan Casptone Kami |
+| Project Brief (https://docs.google.com/document/d/1_iiaa1CohQlk-l0jZP8AMGif5gF2lf7GwvIE6wUtQQw/edit?usp=sharing) | Dokumen Project Brief Casptone Kami |
+| Laporan Teknis (https://drive.google.com/file/d/1VnePd5dlUXD865H7xTdwwXcPEsU1ikP_/view?usp=drive_link)  | Dokumen Laporan Teknis Data Science |
+| Model Ai (https://drive.google.com/file/d/1JQQ08x2UQO5bABtb8DIFjrgzV6hEXYhc/view?usp=drive_link) | Model AI |
+| Slide Presentasi (https://canva.link/yq1nzbopvhrimxt) | Slide Presentasi Projek |
+
+
+
 ## 📧 Kontak
 
 📱 [Instagram] | 📧 tim.catatanku@example.com
