@@ -66,7 +66,3 @@
 | Slide Presentasi (https://canva.link/yq1nzbopvhrimxt) | Slide Presentasi Projek |
 
 
-
-## 📧 Kontak
-
-📱 [Instagram] | 📧 tim.catatanku@example.com
