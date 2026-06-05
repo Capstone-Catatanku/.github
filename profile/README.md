@@ -42,16 +42,15 @@
 
 ## 📊 Tech Stack
 
-- **Frontend**: Flutter / React Native
-- **Backend**: Python (FastAPI)
-- **Data**: Pandas, Jupyter Notebook
-- **Database**: PostgreSQL
+- **Fullstack**: NextJS, Supabase, Prisma
+- **Ai Engineer**: Python, FastAPI, Tensorflow, Jupyter Notebook
+- **Data Science**: Pandas, Jupyter Notebook, Scipy , Numpy, Matplotlib, Python, Streamlit, Seaborn
 
 ---
 
 # 🚀 Hasil Aplikasi
 
-- [CatatanKu](https://catatanku-app-three.vercel.app)
+- [CatatanKu](https://catatanku-app-wybi-three.vercel.app/)
 - [Streamlit](https://catatanku.streamlit.app/)
 - [FastAPI](https://yobby15-catatanku-fastapi.hf.space/)
 
